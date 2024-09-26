@@ -62,8 +62,5 @@ public class FreeDefineFunction {
 		int compare=b.compareTo("k");
 		System.out.println(compare);
 		
-		
-		
-
 }
 }
